@@ -62,19 +62,19 @@ Most Used Ship Mode: Standard Class
 
 Add Year-over-Year trend analysis
 
-## 📷 Screenshots
-### 🔹 Sales Dashboard
-![Dashboard](images/Dashboard.PNG)
+## 📷 Screenshots  
 
-### 🔹 Central Region
-![Central Dashboard](images/Central.PNG)
+### 🔹 Overall Dashboard  
+![Overall Dashboard](Images/Dashboard.PNG)  
 
-### 🔹 East Region
-![East Dashboard](images/East.PNG)
+### 🔹 Central Region  
+![Central Dashboard](Images/Central.PNG)  
 
-### 🔹 South Region
-![South Dashboard](images/South.PNG)
+### 🔹 East Region  
+![East Dashboard](Images/East.PNG)  
 
-### 🔹 West Region
-![West Dashboard](images/West.PNG)
+### 🔹 South Region  
+![South Dashboard](Images/South.PNG)  
 
+### 🔹 West Region  
+![West Dashboard](Images/West.PNG)  
