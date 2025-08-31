@@ -78,7 +78,3 @@ Add Year-over-Year trend analysis
 ### 🔹 West Region
 ![West Dashboard](images/west.PNG)
 
-
-Predictive sales forecasting using ML models
-
-Regional drill-down to city-level sales
