@@ -67,14 +67,14 @@ Add Year-over-Year trend analysis
 ![Dashboard](images/Dashboard.PNG)
 
 ### 🔹 Central Region
-![Central Dashboard](images/central.PNG)
+![Central Dashboard](images/Central.PNG)
 
 ### 🔹 East Region
-![East Dashboard](images/east.PNG)
+![East Dashboard](images/East.PNG)
 
 ### 🔹 South Region
-![South Dashboard](images/south.PNG)
+![South Dashboard](images/South.PNG)
 
 ### 🔹 West Region
-![West Dashboard](images/west.PNG)
+![West Dashboard](images/West.PNG)
 
